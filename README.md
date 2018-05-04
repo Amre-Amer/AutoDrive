@@ -4,7 +4,7 @@
 | ------------------------------------------------------------ |
 | ` `                                                          |
 | A basic Unity exercise to explore a simple AutoDrive Simulator Platform. ` |
-| journal: https://sites.google.com/amre-amer.com/resume/home/AutoMove      |
+| journal: https://sites.google.com/amre-amer.com/resume/home/autodrive      |
 | `Overview`                                                   |
 | ` `                                                          |
 | `- Goal to be able to stand up a quick AutoDrive Simulator in a C# Unity script in one week.`|
